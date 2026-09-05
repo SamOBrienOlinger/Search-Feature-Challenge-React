@@ -1,13 +1,29 @@
-# Getting Started
+# React · Search Feature Challenge · Application
 
-### In the terminal do:
-cd my-app
-npm install
+This directory is part of **React · Search Feature Challenge**. A React exercise combining navigation controls, content rendering and local post data.
 
-### You can then run the project with the command
+[Full project overview and setup](../README.md)
+
+## Work in this directory
+
+From this directory, use:
+
+```bash
+npm ci
 npm start
+```
 
-### Items to be aware of
-Inside the folder named src you will find a file named posts.json. This file will not be used until a challenge later in the content.  
+See the root README for Node/npm requirements, backend setup and any existing dependency limitations.
 
-For convenience react comes installed in this template. A package named axios has also been installed as it will be required in a challenge later.
+## Available checks
+
+| Command | Purpose |
+| --- | --- |
+| `npm run build` | Create the application build |
+| `npm test -- --watchAll=false` | Run the existing tests |
+
+These commands are defined in [package.json](package.json). Test presence does not establish complete coverage.
+
+## Credits and reuse
+
+The [root README](../README.md#credits-and-reuse) records project attribution and reuse terms. This directory does not grant additional permissions.
