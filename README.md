@@ -13,7 +13,7 @@ A React exercise combining navigation controls, content rendering and local post
 
 ## Getting started
 
-Requires Node.js and npm. Check [my-app/package.json](my-app/package.json) for the existing toolchain and dependency versions.
+Requires Git, Node.js and npm. Check [my-app/package.json](my-app/package.json) for the existing toolchain and dependency versions.
 
 ```bash
 git clone https://github.com/SamOBrienOlinger/Search-Feature-Challenge-React.git
